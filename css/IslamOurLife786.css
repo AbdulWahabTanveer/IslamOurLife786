@@ -44,3 +44,6 @@ nav a{
   padding: 10px;
   border-radius: 5px;
 }
+a:active{
+  background-color: #ffffff;
+}
