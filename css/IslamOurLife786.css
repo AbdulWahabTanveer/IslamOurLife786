@@ -54,6 +54,6 @@ a:active{
   text-decoration: none;
   color: #003d99;
 }
-#app:hover{
+#app a:hover{
   text-decoration: underline;
 }
