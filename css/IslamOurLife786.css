@@ -45,8 +45,12 @@ nav a{
   border-radius: 5px;
 }
 a:active{
-  background-color: #ffffff;
+  background-color: #FFFFFF;
 }
 #theone{
   background-color: #FFFFFF;
+}
+#app{
+  text-decoration: none;
+  color: #003d99;
 }
