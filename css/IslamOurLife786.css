@@ -71,4 +71,5 @@ img {
 .logos{
   width: 50px;
   display: inline-block;
+  padding: 0px;
 }
