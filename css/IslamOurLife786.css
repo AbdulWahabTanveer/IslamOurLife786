@@ -68,3 +68,7 @@ img {
   height: auto;
   margin: 0;
 }
+.logos{
+  width: 50px;
+  display: inline-block;
+}
